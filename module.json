@@ -1,0 +1,15 @@
+[
+   {
+      "nombre":"TioPlus",
+      "tipo":"Peliculas",
+      "descripcion":"Servidor de tioplus.app",
+      "file":"TioPlus.aar",
+      "url":"https://github.com/YxhelZvl/AniYx/raw/master/module/TioPlus.aar",
+      "icono":"https://raw.githubusercontent.com/YxhelZvl/AniYx/master/module_icon/iconos/tioplus.png",
+      "creador":"YxhelZvl",
+      "key":"VGlvUGx1cyxZeGhlbFp2bCwyMDI2LTAyLTAy",
+      "launcher":"com.yxhelzvl.tioplus.TioPlus",
+      "version":"1.0.0",
+      "status":"ACTIVE"
+   }
+]
