@@ -13,5 +13,20 @@
       "launcher":"com.yxhelzvl.tioplus.Main",
       "version":"1.0.1",
       "status":"ACTIVE"
+   },
+   {
+      "nombre":"JkAnime",
+      "tipo":"Animes",
+      "descripcion":"Servidor de jkanime.net/",
+      "fileAndroid":"tioplus.yx",
+      "fileDesktop":"tioplus.jar",
+      "urlAndroid":"https://github.com/YxhelZvl/AniYx/raw/refs/heads/main/module/tioplus.yx",
+      "urlDesktop":"https://github.com/YxhelZvl/AniYx/raw/refs/heads/main/module/tioplus.jar",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/refs/heads/master/modulos/iconos/jkanime.png",
+      "creador":"YxhelZvl",
+      "key":"SmtBbmltZSxZeGhlbFp2bCwyMDI2LTAyLTAy",
+      "launcher":"com.yxhelzvl.tioplus.Main",
+      "version":"1.0.1",
+      "status":"ACTIVE"
    }
 ]
