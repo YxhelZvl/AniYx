@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "TioPlus",
+        "tipo": "PELICULA",
+        "descripcion": "Servidor de tioplus.app",
+        "fileAndroid": "TioPlus.yza",
+        "fileDesktop": "TioPlus.yzd",
+        "urlAndroid": "",
+        "urlDesktop": "",
+        "icono": "",
+        "creador": "YxhelZvl",
+        "key": "VGlvUGx1cyxZeGhlbFp2bCwyMDI2LTAyLTAy",
+        "launcher": "com.yxhelzvl.tioplus.Main",
+        "version": "1.0.0",
+        "status": "ACTIVE"
+    },
+    {
+        "nombre": "JKAnime",
+        "tipo": "ANIME",
+        "descripcion": "Servidor de jkanime.net",
+        "fileAndroid": "JKAnime.yza",
+        "fileDesktop": "JKAnime.yzd",
+        "urlAndroid": "",
+        "urlDesktop": "",
+        "icono": "",
+        "creador": "YxhelZvl",
+        "key": "SmtBbmltZSxZeGhlbFp2bCwyMDI2LTAyLTAy",
+        "launcher": "com.yxhelzvl.jkanime.Main",
+        "version": "1.0.0",
+        "status": "ACTIVE"
+    }
+]
